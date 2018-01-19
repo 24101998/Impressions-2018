@@ -1,0 +1,173 @@
+#body{
+  background-color: #FFFFF2;
+}
+.par_lax{
+    background-image: url("backgroundjpg");
+    min-height: 2160px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-bottom: -10px;
+    margin-top: -8px;
+    overflow: hidden;
+}
+#head_one{
+  font-size: 80px;
+  background: rgba(102, 205, 0, 1);
+  color: #FFFFF2;
+  margin-left: 60px;
+  margin-top: 325px;
+  margin-right: 700px;
+  font-family: Microsoft YaHei UI Light;
+}
+#login_basic{
+  background: rgba(0, 0, 0, 0.6);
+  padding-left: 30px;
+  padding-top: 1px;
+  padding-bottom: 40px;
+  margin-left: 990px;
+  margin-top: -430px;
+  margin-right: 110px;
+  color: white;
+}
+#login_basic_name_1{
+  font-size: 22px;
+  margin-bottom: -10px;
+  font-family: Microsoft YaHei UI Light;
+}
+#login_basic_name_2{
+  font-size: 22px;
+  margin-bottom: -1px;
+  font-family: Microsoft YaHei UI Light;
+}
+#login_basic_name_3{
+  font-size: 22px;
+  margin-bottom: -1px;
+  font-family: Microsoft YaHei UI Light;
+}
+#field_1{
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border-width: 0px;
+  margin-top: -30px;
+}
+#field_2{
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+#field_3{
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+#intro_box_1{
+background: rgba(0, 0, 0, 0.6);
+  color: #C2C2C2;
+  margin-top: 340px;
+  margin-left: -8px;
+  padding: 90px;
+  margin-right: 720px;
+  font-size: 30px;
+}
+#head_2{
+  text-align: right;
+  background: rgba(0, 0, 0, 1);
+  margin-left: -8px;
+  margin-right: -8px;
+  color: #FFFFF2;
+  padding: 30px;
+  font-family: Microsoft YaHei UI Light;
+  font-size: 35px;
+  color: #C2C2C2;
+  margin-top: 50px;
+}
+#para_one{
+  font-size: 20px;
+  padding: 40px;
+  margin-bottom: -30px;
+  color: white;
+  text-align: justify;
+  background: rgba(0, 0, 0, 0.8);
+  font-family: Candara;
+}
+#about_us{
+  background: rgba(0, 0, 0, 0.8);
+  padding-left: 360px;
+  padding-right: 360px;
+  padding-top: 60px;
+  margin-top: 30px;
+  padding-bottom: 60px;
+  font-family: Candara;
+}
+#head_3{
+  text-align: right;
+  background: rgba(0, 0, 0, 1);
+  margin-left: -8px;
+  margin-right: -8px;
+  color: #FFFFF2;
+  padding: 30px;
+  font-family: Microsoft YaHei UI Light;
+  font-size: 35px;
+  color: #C2C2C2;
+  margin-top: 50px;
+}
+#para_two{
+font-family: Candara;
+    font-size: 20px;
+    padding: 40px;
+    margin-bottom: -30px;
+    color: white;
+    text-align: justify;
+    background: rgba(0, 0, 0, 0.8);
+}
+#sub_two{
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  margin-left: 80px;
+  margin-right: 800px;
+  margin-top: 100px;
+  color: white;
+  font-family: Candara;
+  text-align: justify;
+  font-size: 20px;
+}
+#sub_three{
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  margin-right: 80px;
+  margin-left: 800px;
+  margin-top: -110px;
+  color: white;
+  font-family: Candara;
+  font-size: 20px;
+  text-align: justify;
+}
+#sub_four{
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  margin-left: 80px;
+  margin-right: 800px;
+  margin-top: 100px;
+  color: white;
+  font-family: Candara;
+  font-size: 20px;
+  text-align: justify;
+}
+#sub_five{
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  margin-right: 80px;
+  margin-left: 800px;
+  margin-top: -110px;
+  font-size: 20px;
+  color: white;
+  font-family: Candara;
+  text-align: justify;
+}
