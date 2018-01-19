@@ -2,7 +2,7 @@
   background-color: #FFFFF2;
 }
 .par_lax{
-    background-image: url("backgroundjpg");
+    background-image: url("jack.jpg");
     min-height: 2160px;
     background-attachment: fixed;
     background-position: center;
@@ -68,9 +68,9 @@
   border-width: 0px;
 }
 #intro_box_1{
-background: rgba(0, 0, 0, 0.6);
+background: rgba(0, 0, 0, 0.5);
   color: #C2C2C2;
-  margin-top: 340px;
+  margin-top: 270px;
   margin-left: -8px;
   padding: 90px;
   margin-right: 720px;
@@ -92,6 +92,7 @@ background: rgba(0, 0, 0, 0.6);
   font-size: 20px;
   padding: 40px;
   margin-bottom: -30px;
+  margin-top: -30px;
   color: white;
   text-align: justify;
   background: rgba(0, 0, 0, 0.8);
@@ -116,13 +117,14 @@ background: rgba(0, 0, 0, 0.6);
   font-family: Microsoft YaHei UI Light;
   font-size: 35px;
   color: #C2C2C2;
-  margin-top: 50px;
+  margin-top: -10px;
 }
 #para_two{
 font-family: Candara;
     font-size: 20px;
     padding: 40px;
     margin-bottom: -30px;
+    margin-top: -30px;
     color: white;
     text-align: justify;
     background: rgba(0, 0, 0, 0.8);
